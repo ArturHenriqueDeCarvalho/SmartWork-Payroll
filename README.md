@@ -17,4 +17,11 @@ Para compilar e executar o programa, você precisará de um compilador C instala
    Abra o terminal e navegue até o diretório onde o código fonte está localizado. Execute o seguinte comando:
 
    ```bash
-   gcc folha_pagamento.c -o folha_pagamento
+   gcc folha_pagamento.c -o folha_pagamento.exe
+Execute o programa:
+
+Após a compilação, execute o programa.
+
+### Este guia permite que você compile, execute e interaja com o SmartWork Payroll System de forma eficiente, gerenciando os salários e bônus dos funcionários da SmartWork de maneira precisa.
+
+
