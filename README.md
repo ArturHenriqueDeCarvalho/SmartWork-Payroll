@@ -10,7 +10,7 @@ Para compilar e executar o programa, você precisará de um compilador C instala
 
 1. **Clone o repositório ou baixe o código fonte:**
 
-   [Link para o código fonte]
+   https://github.com/ArturHenriqueDeCarvalho/SmartWork-Payroll.git
 
 2. **Compile o código fonte:**
 
